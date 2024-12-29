@@ -124,7 +124,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://https://dreamquester.github.io"
+      url: "https://dreamquester.github.io"
     - label: "Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/@WowLife-y5t"
