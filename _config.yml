@@ -21,7 +21,7 @@ title                    : "Developer DreamQuester"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DeokYeol Park"
-description              : "An amazing website."
+description              : "Growth chronology"
 url                      : "https://DreamQuester.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Derek"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "My **Growth chronology**"
   location         : "Daejeon, South Korea"
   email            : "qlgod7777@naver.com"
   links:
