@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c289f44c0048fdc7",
+        "id": "00ada01cf9cd1a62",
         "type": "tabs",
         "children": [
           {
-            "id": "071a733389c97de0",
+            "id": "ebcbc6f341b175ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,10 +162,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "071a733389c97de0",
+  "active": "ebcbc6f341b175ad",
   "lastOpenFiles": [
-    "images/배경화면1.jpg",
+    "assets/images/배경화면3.png",
+    "assets/images/배경화면1.jpg",
+    "assets/images/배경화면2.png",
+    "assets/images",
     "_posts/2024-12-29-first.md",
+    "images/배경화면1.jpg",
     "images/배경화면2.png",
     "images/배경화면3.png",
     "images",
