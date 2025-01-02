@@ -145,7 +145,8 @@
               "title": "2024-12-29-first 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,20 +165,26 @@
   },
   "active": "ebcbc6f341b175ad",
   "lastOpenFiles": [
-    "_site/assets/js/lunr/lunr.min.js",
-    "_site/assets/js/lunr/lunr.js",
-    "_site/assets/js/lunr/lunr-store.js",
-    "_site/assets/js/lunr/lunr-gr.js",
-    "_site/assets/js/lunr/lunr-en.js",
-    "_site/assets/js/main.min.js.map",
-    "_site/assets/js/main.min.js",
-    "_site/assets/js/lunr",
+    "_site/404.html",
+    "_site/_pages/404.md",
+    "_pages/404.md",
+    "_site/_pages/4.4.med",
+    "_site/_pages",
+    "_pages/4.4.med",
+    "_site/test/first/index.html",
+    "_site/test/first",
+    "_site/test",
+    "_site/2024-12-29-first/index.html",
+    "_site/2024-12-29-first",
+    "_site/tags/index.html",
+    "_site/tags",
+    "_site/_pages/tag-archive.md",
+    "_pages/tag-archive.md",
+    "_site/_pages/category-archive.md",
+    "_pages/category-archive.md",
     "_site/assets/images/배경화면3.png",
     "_site/assets/images/배경화면2.png",
     "_site/assets/images/배경화면1.jpg",
-    "_site/assets/css/main.css.map",
-    "_site/assets/css/main.css",
-    "_site/assets/js",
     "_site/screenshot-layouts.png",
     "_site/screenshot.png",
     "assets/images/배경화면3.png",
