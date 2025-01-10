@@ -6,3 +6,4 @@ gem "base64"
 gem "safe_yaml"
 gem 'tzinfo'
 gem 'tzinfo-data'
+gem 'csv'

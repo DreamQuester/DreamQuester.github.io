@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-12-29-first.md",
+                "file": "_posts/2025-01-10-python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-29-first"
+              "title": "2025-01-10-python"
             }
           }
         ]
@@ -165,6 +165,7 @@
   },
   "active": "ebcbc6f341b175ad",
   "lastOpenFiles": [
+    "_posts/2024-12-29-first.md",
     "_site/search/index.html",
     "_site/search",
     "_site/_pages/search/index.html",
@@ -179,7 +180,6 @@
     "_pages/404.md",
     "_site/_pages/4.4.med",
     "_pages/4.4.med",
-    "_site/test/first/index.html",
     "_site/_pages/tag-archive.md",
     "_pages/tag-archive.md",
     "_site/_pages/category-archive.md",
@@ -192,7 +192,6 @@
     "assets/images/배경화면3.png",
     "assets/images/배경화면2.png",
     "assets/images/배경화면1.jpg",
-    "_posts/2024-12-29-first.md",
     "images/배경화면1.jpg",
     "images/배경화면2.png",
     "README.md"
