@@ -330,4 +330,3 @@ defaults:
 
 date_format: "%Y-%m-%d"
 future: true
-published: true
