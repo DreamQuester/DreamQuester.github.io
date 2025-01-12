@@ -7,3 +7,4 @@ gem "safe_yaml"
 gem 'tzinfo'
 gem 'tzinfo-data'
 gem 'csv'
+gem 'wdm', '>= 0.1.0'
